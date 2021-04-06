@@ -6,4 +6,4 @@ layout: home
 ---
 # Hello World!
 
-[Apache Kafka](dosc/Apache_Kafka.md)
+[Apache Kafka](data/Apache_Kafka.md)
